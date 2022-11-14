@@ -1,0 +1,17 @@
+[ 
+    {
+        "Name":"Elaine Reyes",
+        "Email":"ElaineReyes@test.com",
+        "Password": "123"
+    },
+    {
+        "Name":"Camille Mayan",
+        "Email":"CamilleMayan@test.com",
+        "Password": "123"
+    },
+    {
+        "Name":"Bhea Bianca Jaime",
+        "Email":"BheaBiancaJaime@test.com",
+        "Password": "123"
+    }
+]
